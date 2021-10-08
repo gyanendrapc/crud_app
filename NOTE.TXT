@@ -1,2 +1,1 @@
-LAST WATCHED : 2:18
-WORKING ON ROUTES.JS FILE
+This is a simple application created using node/express and mongodb local with other useful node modules
